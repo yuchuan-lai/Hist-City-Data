@@ -1,4 +1,4 @@
-# Historical Temperature and Precipitation Data for U.S. cities
+# Historical Temperature and Precipitation Data for the U.S. cities
 
 urls for accessing figshare data.
 
