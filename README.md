@@ -1,6 +1,6 @@
 # Historical Temperature and Precipitation Data for the U.S. Cities
 
-urls for accessing figshare data (March 2020 updated).
+urls for accessing figshare data (March 2022 updated).
 
 1. Compiled daily temperature and precipitation data for the U.S. cities.
 link: https://kilthub.cmu.edu/articles/Compiled_daily_temperature_and_precipitation_data_for_the_U_S_cities/7890488
